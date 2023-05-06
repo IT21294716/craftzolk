@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <dimen name="Header_text_size1"> 24sp</dimen>
+    <dimen name="Header_text_size2"> 34sp</dimen>
+    <dimen name="Header_text_size3"> 20sp</dimen>
+    <dimen name="textbox_text1"> 14sp</dimen>
+    <dimen name="layout_marginTop1"> 12dp</dimen>
+    <dimen name="layout_marginTop2"> 10dp</dimen>
+    <dimen name="layout_marginTop3"> 33dp</dimen>
+    <dimen name="layout_marginBottom3"> 35dp</dimen>
+    <dimen name="layout_width1"> 300dp</dimen>
+    <dimen name="logo3_layout_width"> 158dp</dimen>
+    <dimen name="logo3_layout_height"> 245dp</dimen>
+    <dimen name="view_layout_marginTop"> 28dp</dimen>
+    <dimen name="view_layout_marginBottom"> 48dp</dimen>
+    <dimen name="logo1_layout_width"> 196dp</dimen>
+    <dimen name="logo1_layout_height"> 109dp</dimen>
+    <dimen name="uname_layout_marginTop"> 57dp</dimen>
+    <dimen name="uname_layout_marginBottom"> 10dp</dimen>
+    <dimen name="button1_layout_width"> 150dp</dimen>
+    <dimen name="bg2_layout_marginBottom"> 25dp</dimen>
+    <dimen name="divider1_layout_width"> 409dp</dimen>
+    <dimen name="divider1_layout_marginTop"> 642dp</dimen>
+    <dimen name="divider1_layout_marginBottom"> 88dp</dimen>
+    <dimen name="img_layout_width"> 231dp</dimen>
+    <dimen name="img_layout_height"> 430dp</dimen>
+    <dimen name="bg3_layout_height"> 231dp</dimen>
+    <dimen name="bg3_layout_width"> 446dp</dimen>
+    <dimen name="logo2_layout_width"> 72dp</dimen>
+    <dimen name="logo2_layout_height"> 75dp</dimen>
+    <dimen name="img2_layout_width"> 144dp</dimen>
+    <dimen name="img2_layout_height"> 277dp</dimen>
+    <dimen name="des_layout_width"> 200dp</dimen>
+    <dimen name="icon_layout_width"> 22dp</dimen>
+    <dimen name="icon_layout_height"> 22dp</dimen>
+    <dimen name="icon_layout_marginBottom"> 340dp</dimen>
+    <dimen name="icon_layout_marginTop"> 7dp</dimen>
+
+</resources>
